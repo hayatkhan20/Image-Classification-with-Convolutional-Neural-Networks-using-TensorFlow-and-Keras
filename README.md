@@ -7,7 +7,7 @@ This repository contains code for building and training a Convolutional Neural N
 
 The code demonstrates the following key components:
 
-1. **Data Loading and Preprocessing:**
+1. *Data Loading and Preprocessing:*
    - Utilizes `ImageDataGenerator` for real-time data augmentation and normalization.
    - Loads and organizes image data into training and testing sets.
 
