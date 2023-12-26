@@ -1,34 +1,34 @@
 Certainly! Below is a template for a README.md file that you can include in your GitHub repository to provide information about the code:
 
 ```markdown
-# Image Classification with Convolutional Neural Networks
+ Image Classification with Convolutional Neural Networks
 
 This repository contains code for building and training a Convolutional Neural Network (CNN) using TensorFlow and Keras for image classification.
 
-## Overview
+ Overview
 
 The code demonstrates the following key components:
 
-1. **Data Loading and Preprocessing:**
+1. Data Loading and Preprocessing:
    - Utilizes `ImageDataGenerator` for real-time data augmentation and normalization.
    - Loads and organizes image data into training and testing sets.
 
-2. **Model Architecture:**
+2. Model Architecture:
    - Defines a CNN model using the Sequential API.
    - Architecture includes convolutional layers, pooling layers, batch normalization, dropout, and fully connected layers.
 
-3. **Model Training:**
+3. Model Training:
    - Compiles the model with the Adam optimizer, categorical crossentropy loss, and accuracy as the metric.
    - Trains the model using the `fit_generator` method.
 
-4. **Visualization:**
+4. Visualization:
    - Plots training and testing loss and accuracy over epochs.
    - Generates a visual representation of the model architecture.
 
-5. **Prediction on New Images:**
+5. Prediction on New Images:
    - Demonstrates how the trained model can make predictions on new, unseen images.
 
-## Usage
+ Usage
 
 1. Clone the repository:
 
@@ -54,7 +54,7 @@ The code demonstrates the following key components:
    python your_script.py
    ```
 
-## Requirements
+ Requirements
 
 - Python 3.x
 - TensorFlow
@@ -62,7 +62,7 @@ The code demonstrates the following key components:
 - PIL
 - Matplotlib
 
-## License
+ License
 
 This project is licensed under the [MIT License](LICENSE).
 
