@@ -1,3 +1,6 @@
+![image](https://github.com/hayatkhan20/Image-Classification-with-Convolutional-Neural-Networks-using-TensorFlow-and-Keras/assets/90596429/9e6373b5-545e-48e1-a8b1-ca158263e8a2)
+
+
 ```markdown
 # Image Classification with Convolutional Neural Networks
 
