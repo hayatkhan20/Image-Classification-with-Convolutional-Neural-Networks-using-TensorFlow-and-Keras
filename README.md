@@ -7,23 +7,23 @@ This repository contains code for building and training a Convolutional Neural N
 
 The code demonstrates the following key components:
 
-1. *Data Loading and Preprocessing:*
+1. Data Loading and Preprocessing:
    - Utilizes `ImageDataGenerator` for real-time data augmentation and normalization.
    - Loads and organizes image data into training and testing sets.
 
-2. **Model Architecture:**
+2. Model Architecture:
    - Defines a CNN model using the Sequential API.
    - Architecture includes convolutional layers, pooling layers, batch normalization, dropout, and fully connected layers.
 
-3. **Model Training:**
+3. Model Training:
    - Compiles the model with the Adam optimizer, categorical crossentropy loss, and accuracy as the metric.
    - Trains the model using the `fit_generator` method.
 
-4. **Visualization:**
+4. Visualization:
    - Plots training and testing loss and accuracy over epochs.
    - Generates a visual representation of the model architecture.
 
-5. **Prediction on New Images:**
+5. Prediction on New Images:
    - Demonstrates how the trained model can make predictions on new, unseen images.
 
 ## Usage
@@ -31,7 +31,7 @@ The code demonstrates the following key components:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/hayatkhan20/Image-Classification-with-Convolutional-Neural-Networks-using-TensorFlow-and-Keras.git
    ```
 
 2. Navigate to the project directory:
