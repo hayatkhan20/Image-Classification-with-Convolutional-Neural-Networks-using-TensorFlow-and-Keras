@@ -1,4 +1,9 @@
+# Accuracy Graphs
 ![image](https://github.com/hayatkhan20/Image-Classification-with-Convolutional-Neural-Networks-using-TensorFlow-and-Keras/assets/90596429/9e6373b5-545e-48e1-a8b1-ca158263e8a2)
+
+
+# Model Architecture 
+![download](https://github.com/hayatkhan20/Image-Classification-with-Convolutional-Neural-Networks-using-TensorFlow-and-Keras/assets/90596429/069c9fa8-ca76-436c-9a63-caf91d5eb443)
 
 
 ```markdown
