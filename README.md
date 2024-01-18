@@ -1,3 +1,6 @@
+# Model Loss
+![Model Loss](https://github.com/hayatkhan20/Image-Classification-with-Convolutional-Neural-Networks-using-TensorFlow-and-Keras/assets/90596429/2c764dd0-b527-40fa-982f-105d2df232ad)
+
 
 # Accuracy Graphs
 ![image](https://github.com/hayatkhan20/Image-Classification-with-Convolutional-Neural-Networks-using-TensorFlow-and-Keras/assets/90596429/9e6373b5-545e-48e1-a8b1-ca158263e8a2)
